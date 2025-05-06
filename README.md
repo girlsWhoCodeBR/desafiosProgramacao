@@ -1,2 +1,1 @@
-# desafiosProgramacao
-Repositório com desafios de programação semanais ou mensais, que podem ser usados para promover a prática e aprendizagem entre as participantes.
+Este repositório contém uma série de desafios de programação para ajudar a melhorar suas habilidades técnicas. Os desafios variam em nível de dificuldade e cobrem várias linguagens de programação.
